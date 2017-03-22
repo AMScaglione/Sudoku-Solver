@@ -1,7 +1,5 @@
 #include <iostream>
 
-using namespace std;
-
 class suBoard{
     private:
         int vals [9][9] = {{0, 0, 0, 0, 0, 0, 0, 0, 0},
